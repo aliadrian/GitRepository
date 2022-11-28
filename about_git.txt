@@ -1,6 +1,3 @@
-Ali Adrian
-Nasrat
-
 git add . // Stages a file
 git commit -m "Your message here" // Commits the changes and adds an optional message
 git push // Pushes the file and changes in it to the internet
